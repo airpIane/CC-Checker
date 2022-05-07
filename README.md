@@ -1,2 +1,3 @@
 # Cc_Checker
-CC Checker Telegram Bot 
+Telegram CC Checker Bot (Uploaded by suspect)
+Owned by Lapan.
